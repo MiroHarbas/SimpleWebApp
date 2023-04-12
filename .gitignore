@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /SimpleWebApp/cstrings.config
 /SimpleWebApp/appsettings.json
+/cstrings.config
